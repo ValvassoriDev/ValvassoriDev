@@ -1,6 +1,6 @@
 ## Ola! Eu sou a Mateus Valvassori, estudante de programação e Estagiário Front-end
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValvassoriDev&show_icons=true&theme=dark)
+![Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValvassoriDev&show_icons=true&theme=dark)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -19,3 +19,9 @@
   <a href = "mailto:valvassori.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mateus-valvassori/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<div align="left">
+  <a href="https://github.com/ValvassoriDev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValvassoriDev&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
