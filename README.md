@@ -1,5 +1,5 @@
 ## Ola! Eu sou a Mateus Valvassori, estudante de programação e Estagiário Front-end
-
+- 📫Como chegar até mim: valvassori.dev@gmail.com
 ![Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValvassoriDev&show_icons=true&theme=dark)
 
 <div style="display: inline_block"><br>
