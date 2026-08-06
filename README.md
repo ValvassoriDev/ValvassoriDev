@@ -3,10 +3,7 @@
 - 📫 Como chegar até mim: valvassori.dev@gmail.com  
 - 🌐 Portfólio: https://valvassoridev.github.io/
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ValvassoriDev&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValvassoriDev&layout=compact&langs_count=7&theme=dark"/>
-</p>
+
 
 ---
 
