@@ -1,4 +1,4 @@
-## Olá! Eu sou o Mateus Valvassori, estudante de programação e Estagiário Front-end
+## Olá! Eu sou o Mateus Valvassori, Desenvolvedor FullStack
 
 - 📫 Como chegar até mim: valvassori.dev@gmail.com  
 - 🌐 Portfólio: https://valvassoridev.github.io/
